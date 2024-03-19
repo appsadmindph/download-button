@@ -1,4 +1,16 @@
 [
+     {
+        "name": "Download data button",
+        "website": "https://github.com/massgov-dph/download-button",
+        "author": "DPH",
+        "github_username": "appsadmindph",
+        "tags": [
+            "V.1.0"
+        ],
+        "description": "This extension will replicate the tableau data download functionality but makes it ADA-compatible and also let you customize the type of data to download",
+        "source_code": "https://github.com/massgov-dph/download-button",
+        "hostedTrexFileName": "download-button-ada.trex"
+    },
     {
         "name": "3-D Scatterplot",
         "website": "https://github.com/mantsui/Ext_visjs_3d_scatter",
